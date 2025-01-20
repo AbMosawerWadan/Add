@@ -1,2 +1,3 @@
-print("Hello")
-print("Hallo")
+print("Hello\nHallo")
+print(300)
+
